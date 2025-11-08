@@ -5,3 +5,6 @@ __pycache__
 
 dataset/**/*
 !dataset/.gitkeep
+
+generator.keras
+discriminator.keras
