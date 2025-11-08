@@ -7,7 +7,7 @@ from datetime import datetime
 from tensorflow import function as tfuction, GradientTape, ones_like, zeros_like
 
 # Environment
-epochs = 500
+epochs = 100
 batchSize = 64
 
 # Load datset
